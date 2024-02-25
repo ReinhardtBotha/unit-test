@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-let mongoDB = ;
+let mongoDB = CONNECTION_STRING;
 
 ////EXAMPLE////
 // Make sure to create .env file and use an environment variable
